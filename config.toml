@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a `/` trailing slash, e.g. `http://brgray.netlify.com//`.
 baseurl = "/"
 
 # Title of your site
@@ -50,12 +50,12 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Sample"
-  role = "Associate Professor of Artificial Intelligence"
+  name = "Brian Gray"
+  role = "AAAS Science & Technology Policy Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "National Science Foundation", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -102,7 +102,7 @@ defaultContentLanguageInSubdir = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
