@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-Brian Gray is an AAAS Science & Technology Policy Fellow with a placement at the National Science Foundation. He workes in Directorate for Engineering's Office of Emerging Frontiers and Multidisciplinary Activities, where he supports cutting-edge engineering research and broadening participation efforts.
+Brian Gray is an AAAS Science & Technology Policy Fellow with a placement at the National Science Foundation. He workes in the Directorate for Engineering's Office of Emerging Frontiers and Multidisciplinary Activities, where he supports cutting-edge engineering research and broadening participation efforts.
 
 Prior to becoming a fellow, he was the Director of Tutoring at Columbia University’s Tutoring and Learning Center and the Assistant Director for Community Engagement at Harvey Mudd College. 
 
