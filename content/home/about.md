@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Community Engagement",
+    "Educational Equity",
+    "Science Communication"
+    "Emerging Research"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Evolution, Ecology, and Organismal Biology"
+  institution = "University of California, Riverside"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology"
+  institution = "University of California, Riverside"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Brian Gray is an AAAS Science & Technology Policy Fellow, hosted in the Office of Emerging Frontiers and Multidisciplinary Activities at the National Science Foundation Directorate for Engineering. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to joining the fellowship program, he was the Director of Tutoring at Columbia University’s Tutoring and Learning Center and the Assistant Director for Community Engagement at Harvey Mudd College. 
+
+During his graduate studies, he co-coordinated his departmental outreach and service group, helping transform it into an award-winning organization that continues to dedicate hundreds of hours promoting STEM education in the surrounding community annually. He was also a recipient of the NSF Graduate Research Fellowship Program and the NSF East Asia and Pacific Summer Institute Fellowship. Brian is a first-generation college student, and spends much of his free time advocating for educational equity. 
